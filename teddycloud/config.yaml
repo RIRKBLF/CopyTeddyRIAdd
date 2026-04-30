@@ -3,7 +3,7 @@ name: TeddyCloud
 version: dev
 slug: teddycloud
 description: An alternative server for your Toniebox
-url: https://github.com/mrueg/addon-teddycloud
+url: https://github.com/RIRKBLF/CopyTeddyRIAdd
 ingress: true
 ingress_stream: true
 panel_icon: mdi:teddy-bear
